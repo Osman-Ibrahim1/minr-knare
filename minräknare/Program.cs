@@ -6,7 +6,7 @@
         {
             Miniräknare calculator = new Miniräknare();
 
-
+            Console.WriteLine(" jag testar");
 
         }
     }

@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.Write(" Välkommen: ");
             Miniräknare miniräknare = new Miniräknare();
 
             try
